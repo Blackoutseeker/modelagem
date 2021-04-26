@@ -1,0 +1,69 @@
+{
+  "/": {
+    "afiliados": {
+      "K8fvm48NftfKuf (ID)": {
+        "nome": "Lineker",
+        "slogan": "iPhones aqui!",
+        "descricao": "Assistência em celulares",
+        "coordenadas": {
+          "lat": "-00356.2885656",
+          "lon": "28395.38856"
+        },
+        "contatos": {
+          "instagram": "@lineker",
+          "zap": "link-do-zap"
+        },
+        "pagamentos": ["Cartão de Crédito", "Pix", "Boleto", "Trans. Bancária"],
+        "categoria": "Assistência Técnica",
+        "entregas": false,
+        "funcionamento": {
+          "aberto": "Aberto: 08:00 horas às 16:00 horas",
+          "fechado": "Fechado aos sábados e domingos"
+        },
+        "logo_url": "https://poo-java.web.app.png",
+        "catalogo": {
+          "K8d8m58Bgtvc902 (ID)": {
+            "nome": "iPhone 8 Plus",
+            "preco": 2.6,
+            "descricao": "8 GB RAM, Quad Core 2.5 Ghz, iOS 13...",
+            "foto_url": "https://iphone.png",
+            "quantidade": 8
+          },
+          "Kisdufj39MDFGBJUHÇ (ID)": {
+            "nome": "iPhone 10",
+            "preco": 2.6,
+            "descricao": "12 GB RAM, Dual Core 2.2 Ghz, iOS 14...",
+            "foto_url": "https://iphone.png",
+            "quantidade": 8
+          }
+        },
+        "avaliacoes": {
+          "973mgjvbjsHFf (ID)": {
+            "nome": "José Walter Paulino Júnior",
+            "avaliacao": "Loja do meu brother, meu camarada, só vende do fino",
+            "estrelas": 5
+          },
+          "O8fdasngse33 (ID)": {
+            "nome": "Pedro Arthur",
+            "avaliacao": "Mengão!!!",
+            "estrelas": 4
+          }
+        }
+      }
+    },
+    "categorias": {
+      "Kndgvs8354n (ID)": {
+        "categoria": "Assistência Técnica"
+      },
+      "O8sfgmgag (ID)": {
+        "categoria": "Lanchonete"
+      },
+      "0OISFG9AS0GM (ID)": {
+        "categoria": "Mercantil"
+      },
+      "LÇGVoikgoG (ID)": {
+        "categoria": "Oficina"
+      }
+    }
+  }
+}
