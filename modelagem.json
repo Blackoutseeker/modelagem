@@ -1,6 +1,7 @@
 {
   "/": {
     "afiliados": {
+      "Assistência Técnica": {
       "K8fvm48NftfKuf (ID)": {
         "nome": "Lineker",
         "slogan": "iPhones aqui!",
@@ -49,6 +50,7 @@
             "estrelas": 4
           }
         }
+      }
       }
     },
     "categorias": {
